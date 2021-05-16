@@ -3,7 +3,7 @@
         <div id="screen">{{}}</div>
         <div>
             <div>평균 시간 : {{}}</div>
-            <button @click="onReset">리셋</button>
+            <button @click="onReset">리셋 수정수정</button>
         </div>
     </div>
 </template>
